@@ -1,4 +1,4 @@
-alert_message "[Message for alerts]"
+alert_message = "[Message for alerts]"
 device_id = "[Device ID]"
 secret_key = "[Secret key]"
 api_password = "[API password]"
